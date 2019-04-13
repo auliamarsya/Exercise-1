@@ -1,0 +1,16 @@
+#judul{
+	text-align: center;
+	background-color: #b6cbed;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.latarBelakang{
+	padding-left: 50px;
+}
+
+#hobby{
+	border-width: 1px;
+	border-color: #ceffdd;
+	border-radius: 5px;
+}
